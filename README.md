@@ -1,4 +1,4 @@
-# Client Plugin for OctoberCMS
+# Backend Settings Plugin for OctoberCMS
 
 **Background**  
 This plugin provides an additional settings panel in the backend settings that allows an administrator to hide or show the CMS and Media items in the administration area navigation.

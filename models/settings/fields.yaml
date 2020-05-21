@@ -1,0 +1,13 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    hide_cms:
+        label: Hide CMS
+        comment: When checked, CMS will be removed from the administration area navigation
+        type: checkbox
+    hide_media:
+        label: Hide Media
+        comment: When checked, ME will be removed from the administration area navigation
+        type: checkbox

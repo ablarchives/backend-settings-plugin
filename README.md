@@ -8,8 +8,8 @@ This plugin provides an additional settings panel in the backend settings that a
 
 **Install**  
 There are two options:
-- `git clone https://github.com/albrightlabs/backend-settings-plugin.git plugins/albrightlabs/client` and run `php artisan october:up` or
-- `git submodule add -b master https://github.com/albrightlabs/backend-settings-plugin.git plugins/albrightlabs/client` and run `php artisan october:up`
+- `git clone https://github.com/albrightlabs/backend-settings-plugin.git plugins/albrightlabs/backendsettings` and run `php artisan october:up` or
+- `git submodule add -b master https://github.com/albrightlabs/backend-settings-plugin.git plugins/albrightlabs/backendsettings` and run `php artisan october:up`
 
 **Update**  
 - `git pull origin master` or
